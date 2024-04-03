@@ -1,0 +1,1 @@
+As a Data Science Students we all have perform our first project on Salary Data set using ML ,Linear Regression Model,I have perform data cleaning ,EDA ,Fit the model,predict the outcome,accuracy score and some graphs
